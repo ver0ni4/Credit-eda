@@ -1,4 +1,4 @@
-# Credit-EDA-Intern
+# Credit-EDA
 Exploratory Data Analysis кредитных заявок
 
 
