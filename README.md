@@ -1,7 +1,5 @@
 # Credit-EDA-Intern
 Exploratory Data Analysis кредитных заявок
-# Credit Risk EDA Case Study  
-**Exploratory Data Analysis кредитных заявок для стажировки аналитика в Т-Банк**
 
 
 ## О проекте
